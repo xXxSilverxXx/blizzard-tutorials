@@ -9,3 +9,5 @@ These are guides authored or sponsored by Blizzard themselves. Here you can find
 
 
 * [Full Editor Guide](./New_Tutorials/01_Introduction/001_Editor_Introduction/): These were tutorials sponsored by Blizzard, written by experts within the community. They are incredibly thorough and you will get a great undesrtanding of the Editor following them.
+
+Borrowing Repository
